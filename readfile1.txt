@@ -9,5 +9,3 @@ post jora7
 this another code
 this changes is in develop branch
 this another code from the tester from demobranch
-this is code from master branch on demofolder
-this is to explain merge conflict
